@@ -32,8 +32,8 @@ Practice SQL querying inside Python workflows for analysis and storytelling.
 
 
 ## Connect
-
-Let's connect
+Linkedin(https://www.linkedin.com/in/timothy-ajewole-287639251/)
+Github(https://github.com/Timoh-top)
 
 [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/timothy-ajewole-287639251/))
 [GitHub]([your-github-url](https://github.com/Timoh-top))
